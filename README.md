@@ -1,1 +1,1 @@
-# README
+I have moved to Sourcehut (sr.ht) and will no longer be using GitHub.
